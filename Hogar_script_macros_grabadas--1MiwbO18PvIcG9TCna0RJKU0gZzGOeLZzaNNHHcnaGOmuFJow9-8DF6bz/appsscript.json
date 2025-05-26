@@ -1,0 +1,35 @@
+{
+  "timeZone": "America/New_York",
+  "dependencies": {
+  },
+  "exceptionLogging": "STACKDRIVER",
+  "runtimeVersion": "V8",
+  "sheets": {
+    "macros": [{
+      "menuName": "Cambiar dia",
+      "functionName": "Cambiardia1",
+      "defaultShortcut": "Ctrl+Alt+Shift+1"
+    }, {
+      "menuName": "Quincena",
+      "functionName": "Quincena",
+      "defaultShortcut": "Ctrl+Alt+Shift+2"
+    }, {
+      "menuName": "Sumar",
+      "functionName": "Sumar"
+    }, {
+      "menuName": "Limpiar",
+      "functionName": "Limpiar",
+      "defaultShortcut": "Ctrl+Alt+Shift+4"
+    }, {
+      "menuName": "Copiar Balance",
+      "functionName": "CopiarBalance",
+      "defaultShortcut": "Ctrl+Alt+Shift+5"
+    }, {
+      "menuName": "Balance a 2_1_saldosIniciales",
+      "functionName": "Balancea2_1_saldosIniciales"
+    }, {
+      "menuName": "CEROS",
+      "functionName": "CEROS"
+    }]
+  }
+}
