@@ -1,0 +1,49 @@
+{
+  "timeZone": "America/New_York",
+  "dependencies": {
+  },
+  "exceptionLogging": "STACKDRIVER",
+  "runtimeVersion": "V8",
+  "sheets": {
+    "macros": [{
+      "menuName": "myFunction",
+      "functionName": "myFunction"
+    }, {
+      "menuName": "zzz",
+      "functionName": "zzz"
+    }, {
+      "menuName": "Encabezado transacciones",
+      "functionName": "Encabezadotransacciones"
+    }, {
+      "menuName": "borrar",
+      "functionName": "borrar"
+    }, {
+      "menuName": "z1",
+      "functionName": "z1"
+    }, {
+      "menuName": "z2",
+      "functionName": "z2"
+    }, {
+      "menuName": "m1",
+      "functionName": "m1"
+    }, {
+      "menuName": "m0",
+      "functionName": "m0"
+    }, {
+      "menuName": "m3",
+      "functionName": "m3"
+    }, {
+      "menuName": "m4",
+      "functionName": "m4"
+    }, {
+      "menuName": "m1",
+      "functionName": "m1"
+    }, {
+      "menuName": "m2",
+      "functionName": "m2"
+    }, {
+      "menuName": "m2",
+      "functionName": "m2"
+    }]
+  }
+}
