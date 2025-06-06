@@ -1,5 +1,7 @@
 //version 2 de codigo
 // Nombre de la hoja 
+//Sheets: App Cuentas
+//Fluter App Cuentas
 function getSheet() {
   return SpreadsheetApp.getActiveSpreadsheet().getSheetByName("movimiento");
 }
