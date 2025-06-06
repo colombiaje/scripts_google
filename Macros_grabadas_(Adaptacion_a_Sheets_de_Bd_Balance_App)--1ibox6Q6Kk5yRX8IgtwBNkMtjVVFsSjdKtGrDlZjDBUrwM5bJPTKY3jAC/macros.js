@@ -1,4 +1,5 @@
 //foco 19/05 7y39
+//Es de sheets: "Macro depurar Bd Balance App"
 /** @OnlyCurrentDoc */
 
 function AdaptacionbdBalanceapp() {
